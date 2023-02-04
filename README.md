@@ -15,7 +15,7 @@ This project demonstrates how to build a Twitter data pipeline using Apache Airf
 
 ## Technologies Used:
 
-1.Python and Pandas
-2.Apache Airflow
-3.Amazon EC2
-4.Amazon S3
+1.Python and Pandas  
+2.Apache Airflow  
+3.Amazon EC2  
+4.Amazon S3  
