@@ -19,10 +19,10 @@ Once the DAG was set up, I focused on executing the pipeline, which involved set
 
 ## Technologies Used:  
   
-1.Python and Pandas  
+**1.Python and Pandas  
 2.Apache Airflow  
 3.Amazon EC2  
-4.Amazon S3 
+4.Amazon S3 **
 
 ## What did i learn through this project:  
 
