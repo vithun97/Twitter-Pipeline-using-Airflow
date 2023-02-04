@@ -13,6 +13,9 @@ This project demonstrates how to build a Twitter data pipeline using Apache Airf
 6.Executing the pipeline  
 7.Deploying the code on Apache Airflow  
 
+## Architecture:  
+  
+
 ## Technologies Used:
 
 1.Python and Pandas  
