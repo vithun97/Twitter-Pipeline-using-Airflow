@@ -5,13 +5,13 @@ This project demonstrates how to build a Twitter data pipeline using Apache Airf
 
 ## Concepts Applied:
 
-1.Architecture diagram of the pipeline
-2.Installing and importing Apache Airflow
-3.Defining the directed acyclic graph (DAG) and tasks
-4.Execution
-5.Setting up the Twitter API and obtaining the API key and secret key
-6.Executing the pipeline
-7.Deploying the code on Apache Airflow
+1.Architecture diagram of the pipeline  
+2.Installing and importing Apache Airflow  
+3.Defining the directed acyclic graph (DAG) and tasks  
+4.Execution  
+5.Setting up the Twitter API and obtaining the API key and secret key  
+6.Executing the pipeline  
+7.Deploying the code on Apache Airflow  
 
 ## Technologies Used:
 
